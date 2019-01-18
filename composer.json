@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-       "allegro/php-protobuf": "dev-master"
+       "yiisoft/yii2": "*"
     },
     "autoload": {
       "psr-4": {
