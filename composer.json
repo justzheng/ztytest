@@ -9,7 +9,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "yiisoft/yii2": "2.0.9"
+    },
     "autoload": {
       "psr-4": {
         "test\\": "aop"
